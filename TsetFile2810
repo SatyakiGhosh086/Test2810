@@ -1,3 +1,9 @@
 This is test file. 
 Initially there is no change at all.
 Committing this now in remote repository
+===============================================
+
+Updating the file.
+After cloning the git repo.
+Will create a feature branch locally
+And commit in feature branch and merge to remore
